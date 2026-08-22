@@ -18,7 +18,7 @@ I design and operate **end-to-end DevSecOps pipelines** on AWS — from infrastr
 - 🔍 **Observability:** Prometheus, Grafana, CloudWatch
 - 🛡️ **Security:** SonarQube, Trivy, OWASP dependency scanning
 - 🐧 **Linux:** Ubuntu administration, Bash/Shell scripting, Cron Jobs
-- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB (backup, restore, admin)
+- 🗄️ **Databases:** MySQL, MongoDB (backup, restore, admin)
 
 ---
 
