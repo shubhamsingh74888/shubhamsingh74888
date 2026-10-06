@@ -4,6 +4,7 @@
 🎓 MCA 2026 · Garden City University, Bangalore · CGPA 8.5  
 📍 Bangalore, India · Available immediately for DevOps / Cloud / SRE roles  
 📧 shubhamsingh74888@gmail.com · [LinkedIn](https://linkedin.com/in/shubham-singh-aa858b35a) 
+
  https://portfolio-webpage.shubhamsingh74888.workers.dev/
 
 ---
